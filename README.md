@@ -1,6 +1,6 @@
-# Project Title
+# PII Scraper
 
-Simple overview of use/purpose.
+A bash script that obtains personally identifiable information (PII) by searching through an entire filesystem. It uses regex to find the matching syntaxes such as username:password and emails.
 
 ## Description
 
