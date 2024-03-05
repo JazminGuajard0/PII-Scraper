@@ -1,4 +1,5 @@
 # PII Scraper
+![PII_Scraper](https://github.com/JazminGuajard0/PII-Scraper/assets/71527158/04feb28e-a7be-4546-a014-9b428b65f7c4)
 
 A bash script that obtains personally identifiable information (PII) by searching through an entire filesystem.
 
@@ -8,7 +9,9 @@ The bash script uses regex to find the matching syntaxes such as "username:passw
 
 ## nova.sh
 
-This bash script is able to pull any data that matches the "username:password" syntax, including those files that have differnt file extensions rather than just .txt. The only issue is that it also pulls extra data that is not necessary, or does not contain relevant information.
+This bash script is able to pull any data that matches the "username:password" syntax, including those files that have differnt file extensions rather than just .txt. 
+
+Issue: It pulls extra data that is not necessary, or does not contain relevant information.
 
 ```sh
 #!/bin/bash
@@ -28,7 +31,9 @@ done
 
 ## pii.sh
 
-This bash script pulls data that matches the "username:password" syntax, but does not have the ability to obtain from different file extensions. In other words, it is only limited to pulling data that matches the regex but also only considers .txt files.
+This bash script pulls data that matches the "username:password" syntax in the directory, and subdirectories. 
+
+Isuee: It only pulls data from .txt files that match the regex for "username:password".
 
 ```sh
 #!/bin/bash
