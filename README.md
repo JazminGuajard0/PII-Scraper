@@ -59,11 +59,11 @@ eval "$command"
 ### Executing program
 
 How to run the program
-* Once the bash script is saved, and edited to adjust to your system you can execute them.
+* Once the bash script you choose is saved, and edited to the directory you want to search in you can execute it.
 ```sh
 ./nova.sh
 ```
-and
+or
 ```sh
 ./pii.sh
 ```
