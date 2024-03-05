@@ -1,6 +1,6 @@
 ![PII_Scraper](https://github.com/JazminGuajard0/PII-Scraper/assets/71527158/04feb28e-a7be-4546-a014-9b428b65f7c4)
 
-==PII Scraper== is a bash script that obtains personally identifiable information (PII) by searching through an entire filesystem.
+`PII Scraper` is a bash script that obtains personally identifiable information (PII) by searching through an entire filesystem.
 
 ## Description
 
