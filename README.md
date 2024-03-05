@@ -75,8 +75,10 @@ Jazmin Guajardo
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/aee8acf60f88e789fb1311a4ddd91b83b421eb3c/linPEAS)
+* [What is Regex?](https://www.computerhope.com/jargon/r/regex.htm)
+* [Shell Scripting Guide to Regex](https://ioflood.com/blog/bash-regex/)
+* [Regex Patterns](https://www.tutorialsteacher.com/regex/frequently-used-regex-patterns)
+* [Username and Password Validation using Regex](https://dev.to/fromwentzitcame/username-and-password-validation-using-regex-2175)
+* [Loop through files in a Directory in Bash](https://www.warp.dev/terminus/bash-loop-through-files-in-directory)
+* [Searching for keyword in a directory](https://unix.stackexchange.com/questions/21169/how-to-search-for-a-word-in-entire-content-of-a-directory-in-linux)
