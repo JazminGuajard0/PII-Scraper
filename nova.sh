@@ -2,6 +2,8 @@
 
 #The path of the directory that it is searching from
 directory="path/to/search"
+
+#Regex for "username:password"
 pattern='*[a-zA-Z0-9_]+:*[a-zA-Z0-9_]$'
 
 #Regex pattern to search for
