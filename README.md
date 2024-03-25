@@ -32,7 +32,7 @@ done
 
 This bash script pulls data that matches the "username:password" syntax in the directory, and subdirectories. 
 
-Isuee: It only pulls data from .txt files that match the regex for "username:password".
+Issue: It only pulls data from .txt files that match the regex for "username:password".
 
 ```sh
 #!/bin/bash
